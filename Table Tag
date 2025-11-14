@@ -24,6 +24,11 @@
             <td>Delhi</td>
             <td>9672xxxx34</td>
         </tr>
+        <tr>
+            <td colspan="2">vivek</td>
+            <td>Patna</td>
+            <td>7853xxxx23</td>
+        </tr>
       </table>
     </body>
     </html>
