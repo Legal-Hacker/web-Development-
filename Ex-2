@@ -1,0 +1,20 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Bookmark manager</title>
+       
+         <script src="script.js"></script>
+    </head>
+    <body>
+        <h1>My Bookmarks</h1>
+        <h2>Primary Bookmarks</h2>
+        <a href="https://www.Google.com">Open Google</a><!--yaha same tab me google open hoga -->
+        <p><a target="blank" href="https://www.Google.com">Open Google</a></p><!--yaha google new tab me open hoga q ki yaha target="blank" hai-->
+        <p><a target="_blank" href="https://www.facebook.com">facebook</a></p>
+        <h2>Secondary Bookmarks</h2>
+        <p><a target="_blank" href="https://www.wikipedia.org">wikipedia</a></p>
+        <p><a target="_blank" href="https://stackoverflow.com">stackoverflow</a></p>
+    </body>
+    </html>
