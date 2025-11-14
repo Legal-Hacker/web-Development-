@@ -1,0 +1,13 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Images</title>
+       
+         <script src="script.js"></script>
+    </head>
+    <body>
+      <img src="tom-jerry-mkx54j9aqhg.jpg" alt="tom-jerry">  <!-- alt yaha pe optional hota hai q ki ye ek hint ke jaisa kaam kartha hai jab image kisi error ki wajha se show nhi hota hai to us error image ka name alt ki help se hint dete hai -->
+    </body>
+    </html>
