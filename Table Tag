@@ -25,7 +25,17 @@
             <td>9672xxxx34</td>
         </tr>
         <tr>
-            <td colspan="2">vivek</td>
+            <td colspan="2">vivek</td> <!--Colspan se column me extra space lega -->
+            <td>Patna</td>
+            <td>7853xxxx23</td>
+        </tr>
+        <tr>
+            <td rowspan="2">dinesh</td> <!--Colspan se column me extra space lega -->
+            <td>Hariyana</td>
+            <td>7853xxxx23</td>
+        </tr>
+        <tr>
+            <td>vivek</td> <!--Colspan se column me extra space lega -->
             <td>Patna</td>
             <td>7853xxxx23</td>
         </tr>
