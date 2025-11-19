@@ -5,15 +5,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Images</title>
        
-         <script src="script.js"></script>
+         <link rel="stylesheet" href="style.css">
     </head>
     <body>
       <table>
+        <caption>Employee Details</caption>
+        <thead>
         <tr><!--Table Row-->
         <th>Name</th><!--Table heading-->
         <th>Address</th>
         <th>Mob No</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td>Ashvin</td><!--Table data-->
             <td>Koniyapar</td>
@@ -34,11 +38,25 @@
             <td>Hariyana</td>
             <td>7853xxxx23</td>
         </tr>
+        </tbody>
+        <tfoot>
         <tr>
-            <td>vivek</td> <!--rowspan se column me extra space lega -->
+            <td>vivek</td> <!--Colspan se column me extra space lega -->
             <td>Patna</td>
             <td>7853xxxx23</td>
         </tr>
+        </tfoot>
       </table>
+    <ul type="">
+        <li>Ashvin</li>
+        <li>Shreya</li>
+        <li>Nisha</li>
+      </ul>
+      <ol type="">
+        <li>Ashvin</li>
+        <li>Shreya</li>
+        <li>Nisha</li>
+      </ol>
     </body>
     </html>
+    <!--thead,tbody & tfoot se grouping hota hai jisse css ki help se style dene me easy hota hai-->
