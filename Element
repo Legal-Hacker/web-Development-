@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inline and Block Element</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p>Hyy I am a para</p><!--Block Element-->
+  <a href="http://google.com">Google</a><!--Inline Element-->
+  <div>i am a Block element</div>
+  <span>i am span & i am a inline</span>
+</body>
+</html>
