@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card</title>
+    <style>
+        body{
+            background-color: gray;
+
+        }
+        .card{
+            
+            width: 260px;
+            height: 370px;
+            background-color: white;
+            background-color: rgb(166, 135, 140);
+        }
+        .img{
+            display: flex;
+            padding: 8px;
+            margin: px;
+        }
+        .cap span{
+            border: 2px solid black;
+            border-radius: 5px;
+            padding: 3px;
+            margin: 7px;
+        }
+    </style>
+
+</head>
+
+<body>
+<div class="card">
+    <div class="img">
+        <img width=240px src="https://upload.wikimedia.org/wikipedia/commons/0/02/Boat_Man.JPG" alt="">
+    </div>
+    <div class="cap">
+        <span>Nature</span>
+        <span>Lake</span>
+    </div>
+    <div class="content">
+        <h2>Ashvin</h2>
+        <p>hi I am a web developemer an i am a coder from india and i am the onluy one xcoder in my familu  so i am so happy </p>
+    </div>
+</div>
+
+</body>
+
+</html>
