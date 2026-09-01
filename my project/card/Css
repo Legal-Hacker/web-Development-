@@ -1,0 +1,34 @@
+body{
+    background-color: #ad4242;
+    font-family: arial, sens-serif;
+}
+.card{
+    width: 300px;
+    background-color: rgb(181, 144, 144);
+    text-align: center;
+    padding: 30px;
+    margin: 100px auto;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px gray;
+}
+h1{
+    color: #086f61;
+
+}
+h3{
+    color: rgb(171, 18, 59);
+}
+p{
+    color: #b906c9;
+    line-height: 1.5;
+
+}
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
